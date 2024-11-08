@@ -3,7 +3,6 @@
 // 2 - method of child class by object of child class
 // 3 - method of parent class by object of child class
 
-
 class parent {
     public static void pa(){
         System.out.println("This is the parent class");
