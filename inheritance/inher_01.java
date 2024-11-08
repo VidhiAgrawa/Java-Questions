@@ -17,9 +17,9 @@ class child extends parent{
 public class inher_01 {
     public static void main(String[] args) {
         child chi = new child();
-        parent par =  new parent();
+        parent pare =  new parent();
         chi.ch();
-        par.pa();
+        pare.pa();
         chi.pa();
     }
 }
